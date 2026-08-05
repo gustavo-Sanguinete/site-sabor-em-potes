@@ -1,0 +1,7 @@
+{
+  "name": "site-sabor-em-potes",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx serve -s . -l $PORT"
+  }
+}
